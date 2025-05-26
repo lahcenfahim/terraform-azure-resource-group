@@ -1,1 +1,0 @@
-# terraform-azure-resource-group
